@@ -1,0 +1,76 @@
+{
+  "hotspot1": {
+    "baseimage" : "标准_1",
+	"selectmodel" : "default"
+  },
+  "hotspot2": {
+    "baseimage" : "标准_2"
+  },
+  "hotspot3": {
+    "baseimage" : "标准_3"
+  },
+  "hotspot4": {
+    "baseimage" : "标准_4"
+  },
+  "hotspot5": {
+    "baseimage" : "标准_5"
+  },
+  "hotspot6": {
+    "baseimage" : "标准_6"
+  },
+  "hotspot7": {
+    "baseimage" : "标准_7"
+  },
+  "hotspot8": {
+    "baseimage" : "标准_8"
+  },
+  "hotspot9": {
+    "baseimage" : "标准_9"
+  },
+  "hotspot10": {
+    "baseimage" : "标准_10"
+  },
+  "hotspot11": {
+    "baseimage" : "标准_11"
+  },
+  "hotspot12": {
+    "baseimage" : "标准_13"
+  },
+  "hotspot13": {
+    "baseimage" : "标准_14"
+  },
+  "hotspot14": {
+    "baseimage" : "标准_15"
+  },
+  "hotspot15": {
+    "baseimage" : "标准_16"
+  },
+  "hotspot16": {
+    "baseimage" : "标准_17"
+  },
+  "hotspot17": {
+    "baseimage" : "标准_18"
+  },
+  "hotspot18": {
+    "baseimage" : "标准_19"
+  },
+  "hotspot19": {
+    "baseimage" : "标准_20"
+  },
+  "hotspot20": {
+    "baseimage" : "标准_21"
+  },
+  "hotspot21": {
+    "baseimage" : "标准_22"
+  },
+  "hotspot22": {
+    "baseimage" : "标准_23",
+	"selectmodel" : "SNALSKIN"
+  },
+  "hotspot23": {
+    "model" : "Box01"
+  },
+  "hotspot23": {
+    "model" : "Box02"
+  }
+}

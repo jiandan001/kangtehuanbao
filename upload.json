@@ -1,0 +1,166 @@
+{
+  "hotspot1": {
+    "selectmodel":"selectmodel",
+    "img":"../hotspots/hotspot1/1.png"
+  }, 
+ "hotspot2": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot2/baseimage/2.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot3": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot3/baseimage/3.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot4": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot4/baseimage/4.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot5": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot5/baseimage/5.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot6": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot6/baseimage/6.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot7": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot7/baseimage/7.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot8": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot8/baseimage/8.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot9": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot9/baseimage/9.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot10": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot10/baseimage/10.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot11": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot11/baseimage/11.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot12": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot12/baseimage/12.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+   "hotspot13": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot13/baseimage/13.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot14": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot14/baseimage/14.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot15": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot15/baseimage/15.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot16": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot16/baseimage/16.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  },
+  "hotspot17": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot17/baseimage/17.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot18": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot18/baseimage/18.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot19": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot19/baseimage/19.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot20": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot20/baseimage/20.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot21": {
+    "baseimage" : {
+      "img":"../hotspots/hotspot21/baseimage/21.png"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot22": {
+    "selectmodel":"selectmodel",
+    "img":"../hotspots/hotspot22/22.png"
+  }, 
+  "hotspot23": {
+    "seltext":"seltext",
+    "modelchannel" : {
+      "img":"../hotspots/hotspot23/modelchannel/23.svg"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }, 
+  "hotspot24": {
+    "seltext":"seltext",
+    "modelchannel" : {
+      "img":"../hotspots/hotspot24/modelchannel/24.svg"
+    },
+    "modelcolor" : "modelcolor",
+    "modelmaterial" : "modelmat",
+  }
+}
